@@ -1,3 +1,5 @@
+# Git how to update branch with latest develop changes
+
 Assuming that you have a branch develop that you want to merge into your current branch, the git command to update your current branch with the latest changes from develop is:
 `git merge develop` 
 
