@@ -10,6 +10,7 @@ If you want to make sure that your branch is up-to-date with develop before merg
 And then switch to your develop branch and pull the latest changes:
 
 `git checkout develop`
+
 `git pull origin develop`
 
 Then switch back to your current branch and merge the changes from develop:
