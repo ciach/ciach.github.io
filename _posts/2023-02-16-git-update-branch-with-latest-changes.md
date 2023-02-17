@@ -16,6 +16,7 @@ And then switch to your develop branch and pull the latest changes:
 Then switch back to your current branch and merge the changes from develop:
 
 `git checkout <your-branch>`
+
 `git merge develop`
 
 Note that there may be conflicts when merging changes from develop, in which case you will need to resolve them manually before committing the merge.
